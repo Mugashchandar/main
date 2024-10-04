@@ -1,0 +1,10 @@
+mat-grid-tile {
+    background: lightblue;
+}
+
+.todo-div {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Roboto, sans-serif;
+    padding-right: 100px;
+}
